@@ -1,0 +1,28 @@
+Web Development and Database System
+
+Readme.md
+ST4056 CEM: Introduction to Web Development and Database System
+
+This coursework deals with the development of the project that fufills the course requirements for the 
+completion of web development and database system. The website is made up of Frontend and backend and is integrated with
+database for the backend support.
+
+#Frontend Design is made up of
+- HTML
+- CSS
+- JavaScript
+
+#Backend Design is made up of
+- PHP
+
+# Database Design 
+- Mysql
+
+Admin
+
+username= Manish
+password= 789
+
+
+
+
